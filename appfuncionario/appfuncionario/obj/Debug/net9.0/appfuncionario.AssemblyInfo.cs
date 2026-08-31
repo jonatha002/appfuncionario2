@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("appfuncionario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81578a90c88baa224e9a35269f5ab33ba462ee7e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b4bd418f86e9adca7cd03faff0b897de1e72846")]
 [assembly: System.Reflection.AssemblyProductAttribute("appfuncionario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("appfuncionario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

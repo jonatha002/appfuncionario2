@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\tarde.cetafest\\Documents\\appfuncionario\\appfuncionario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C30DFB0F-73DC-4BF3-B7E5-9D8AE6415284}|appfuncionario\\appfuncionario.csproj|c:\\users\\tarde.cetafest\\documents\\appfuncionario\\appfuncionario\\appfuncionario\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C30DFB0F-73DC-4BF3-B7E5-9D8AE6415284}|appfuncionario\\appfuncionario.csproj|solutionrelative:appfuncionario\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C30DFB0F-73DC-4BF3-B7E5-9D8AE6415284}|appfuncionario\\appfuncionario.csproj|c:\\users\\tarde.cetafest\\documents\\appfuncionario\\appfuncionario\\appfuncionario\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30DFB0F-73DC-4BF3-B7E5-9D8AE6415284}|appfuncionario\\appfuncionario.csproj|solutionrelative:appfuncionario\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C30DFB0F-73DC-4BF3-B7E5-9D8AE6415284}|appfuncionario\\appfuncionario.csproj|c:\\users\\tarde.cetafest\\documents\\appfuncionario\\appfuncionario\\appfuncionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C30DFB0F-73DC-4BF3-B7E5-9D8AE6415284}|appfuncionario\\appfuncionario.csproj|solutionrelative:appfuncionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30DFB0F-73DC-4BF3-B7E5-9D8AE6415284}|appfuncionario\\appfuncionario.csproj|c:\\users\\tarde.cetafest\\documents\\appfuncionario\\appfuncionario\\appfuncionario\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30DFB0F-73DC-4BF3-B7E5-9D8AE6415284}|appfuncionario\\appfuncionario.csproj|solutionrelative:appfuncionario\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C30DFB0F-73DC-4BF3-B7E5-9D8AE6415284}|appfuncionario\\appfuncionario.csproj|c:\\users\\tarde.cetafest\\documents\\appfuncionario\\appfuncionario\\appfuncionario\\models\\dbtaskszerocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,19 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TarefaController.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\appfuncionario\\appfuncionario\\appfuncionario\\Controllers\\TarefaController.cs",
+              "RelativeDocumentMoniker": "appfuncionario\\Controllers\\TarefaController.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\appfuncionario\\appfuncionario\\appfuncionario\\Controllers\\TarefaController.cs",
+              "RelativeToolTip": "appfuncionario\\Controllers\\TarefaController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAA8wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T19:09:38.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FuncionarioController.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\appfuncionario\\appfuncionario\\appfuncionario\\Controllers\\FuncionarioController.cs",
               "RelativeDocumentMoniker": "appfuncionario\\Controllers\\FuncionarioController.cs",
               "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\appfuncionario\\appfuncionario\\appfuncionario\\Controllers\\FuncionarioController.cs",
               "RelativeToolTip": "appfuncionario\\Controllers\\FuncionarioController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-31T18:23:36.028Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DbTasksZeroContext.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\appfuncionario\\appfuncionario\\appfuncionario\\Models\\DbTasksZeroContext.cs",
               "RelativeDocumentMoniker": "appfuncionario\\Models\\DbTasksZeroContext.cs",
@@ -51,8 +68,7 @@
               "RelativeToolTip": "appfuncionario\\Models\\DbTasksZeroContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-31T18:10:45.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-31T18:10:45.747Z"
             },
             {
               "$type": "Document",
@@ -69,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\appfuncionario\\appfuncionario\\appfuncionario\\appsettings.json",
               "RelativeDocumentMoniker": "appfuncionario\\appsettings.json",
@@ -77,8 +93,7 @@
               "RelativeToolTip": "appfuncionario\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-31T17:55:37.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-31T17:55:37.765Z"
             }
           ]
         }
