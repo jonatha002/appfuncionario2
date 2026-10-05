@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tarde.cetafest\\Documents\\appfuncionario\\labcase06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09CED006-A0A1-4C03-AFC1-D567940CACF3}|labcase06\\labcase06.csproj|c:\\users\\tarde.cetafest\\documents\\appfuncionario\\labcase06\\labcase06\\controllers\\consultacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CED006-A0A1-4C03-AFC1-D567940CACF3}|labcase06\\labcase06.csproj|solutionrelative:labcase06\\controllers\\consultacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CED006-A0A1-4C03-AFC1-D567940CACF3}|labcase06\\labcase06.csproj|c:\\users\\tarde.cetafest\\documents\\appfuncionario\\labcase06\\labcase06\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CED006-A0A1-4C03-AFC1-D567940CACF3}|labcase06\\labcase06.csproj|solutionrelative:labcase06\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CED006-A0A1-4C03-AFC1-D567940CACF3}|labcase06\\labcase06.csproj|c:\\users\\tarde.cetafest\\documents\\appfuncionario\\labcase06\\labcase06\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CED006-A0A1-4C03-AFC1-D567940CACF3}|labcase06\\labcase06.csproj|solutionrelative:labcase06\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CED006-A0A1-4C03-AFC1-D567940CACF3}|labcase06\\labcase06.csproj|c:\\users\\tarde.cetafest\\documents\\appfuncionario\\labcase06\\labcase06\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CED006-A0A1-4C03-AFC1-D567940CACF3}|labcase06\\labcase06.csproj|solutionrelative:labcase06\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CED006-A0A1-4C03-AFC1-D567940CACF3}|labcase06\\labcase06.csproj|c:\\users\\tarde.cetafest\\documents\\appfuncionario\\labcase06\\labcase06\\models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CED006-A0A1-4C03-AFC1-D567940CACF3}|labcase06\\labcase06.csproj|solutionrelative:labcase06\\models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CED006-A0A1-4C03-AFC1-D567940CACF3}|labcase06\\labcase06.csproj|c:\\users\\tarde.cetafest\\documents\\appfuncionario\\labcase06\\labcase06\\models\\dbclinicacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CED006-A0A1-4C03-AFC1-D567940CACF3}|labcase06\\labcase06.csproj|solutionrelative:labcase06\\models\\dbclinicacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CED006-A0A1-4C03-AFC1-D567940CACF3}|labcase06\\labcase06.csproj|c:\\users\\tarde.cetafest\\documents\\appfuncionario\\labcase06\\labcase06\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09CED006-A0A1-4C03-AFC1-D567940CACF3}|labcase06\\labcase06.csproj|solutionrelative:labcase06\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CED006-A0A1-4C03-AFC1-D567940CACF3}|labcase06\\labcase06.csproj|c:\\users\\tarde.cetafest\\documents\\appfuncionario\\labcase06\\labcase06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CED006-A0A1-4C03-AFC1-D567940CACF3}|labcase06\\labcase06.csproj|solutionrelative:labcase06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\appfuncionario\\labcase06\\labcase06\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "labcase06\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\appfuncionario\\labcase06\\labcase06\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "labcase06\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T18:29:46.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsultaController.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\appfuncionario\\labcase06\\labcase06\\Controllers\\ConsultaController.cs",
+              "RelativeDocumentMoniker": "labcase06\\Controllers\\ConsultaController.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\appfuncionario\\labcase06\\labcase06\\Controllers\\ConsultaController.cs",
+              "RelativeToolTip": "labcase06\\Controllers\\ConsultaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T18:25:30.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MedicoController.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\appfuncionario\\labcase06\\labcase06\\Controllers\\MedicoController.cs",
+              "RelativeDocumentMoniker": "labcase06\\Controllers\\MedicoController.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\appfuncionario\\labcase06\\labcase06\\Controllers\\MedicoController.cs",
+              "RelativeToolTip": "labcase06\\Controllers\\MedicoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T18:24:56.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\appfuncionario\\labcase06\\labcase06\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "labcase06\\Controllers\\PacienteController.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\appfuncionario\\labcase06\\labcase06\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "labcase06\\Controllers\\PacienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T18:23:34.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\appfuncionario\\labcase06\\labcase06\\Program.cs",
+              "RelativeDocumentMoniker": "labcase06\\Program.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\appfuncionario\\labcase06\\labcase06\\Program.cs",
+              "RelativeToolTip": "labcase06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T18:18:01.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\appfuncionario\\labcase06\\labcase06\\Models\\Consulta.cs",
+              "RelativeDocumentMoniker": "labcase06\\Models\\Consulta.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\appfuncionario\\labcase06\\labcase06\\Models\\Consulta.cs",
+              "RelativeToolTip": "labcase06\\Models\\Consulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T18:16:35.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbClinicaContext.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\appfuncionario\\labcase06\\labcase06\\Models\\DbClinicaContext.cs",
+              "RelativeDocumentMoniker": "labcase06\\Models\\DbClinicaContext.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\appfuncionario\\labcase06\\labcase06\\Models\\DbClinicaContext.cs",
+              "RelativeToolTip": "labcase06\\Models\\DbClinicaContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T18:15:18.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\appfuncionario\\labcase06\\labcase06\\appsettings.json",
+              "RelativeDocumentMoniker": "labcase06\\appsettings.json",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\appfuncionario\\labcase06\\labcase06\\appsettings.json",
+              "RelativeToolTip": "labcase06\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-05T18:12:55.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
